@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Parsa, I am currently a senior at SDSU majoring in Computer Engineering
 
 <!--
 **parsaf17/parsaf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
